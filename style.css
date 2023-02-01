@@ -1,0 +1,49 @@
+h1 {
+    background-color: lightgreen;
+    color: crimson;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+
+}
+
+h2 {
+    color: blue;
+    background-color: burlywood;
+    text-align: center;
+    font-size: 35px;
+    margin: 10px 570px 10px 570px;
+    border-radius: 20px;
+}
+
+h3 {
+    color: orangered;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.separate {
+    background-color: darkslategrey;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    padding: 10px 10px 20px 20px;
+    box-shadow: 5px 5px 30px gray;
+    width: 70%;
+    display: ;
+}
+
+.separate p {
+    color: yellow
+}
+
+h4 {
+    color: yellow;
+}
+
+.order {
+    color: lightskyblue;
+}
